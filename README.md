@@ -29,6 +29,6 @@ Run `make lint` which runs `ruff check`.
 * `githubactions`
 
 ## References
-[Templates and Code Spaces]([https://www.google.com](https://github.com/education/codespaces-teaching-template-py)https://github.com/education/codespaces-teaching-template-py)
+[Templates and Code Spaces](https://github.com/education/codespaces-teaching-template-py)
 
 
