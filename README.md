@@ -29,8 +29,6 @@ Run `make lint` which runs `ruff check`.
 * `githubactions`
 
 ## References
-
-![1 1-function-essence-of-programming](https://github.com/nogibjj/python-ruff-template/assets/58792/f7f33cd3-cff5-4014-98ea-09b6a29c7557)
-
+[Templates and Code Spaces]([https://www.google.com](https://github.com/education/codespaces-teaching-template-py)https://github.com/education/codespaces-teaching-template-py)
 
 
